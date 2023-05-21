@@ -1,0 +1,17 @@
+{
+    "name": "eli/scandiweb-test-project",
+    "authors": [
+        {
+            "name": "Elnaz Dolati",
+            "email": "e.dolati1996@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "app\\":"./"
+        }
+    }
+    ,"require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
